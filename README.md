@@ -12,7 +12,7 @@ first repository
 - je
 - seznam
 
-  1. tohle
-  2. je
-  3. cislovany
-  4. seznam
+1. tohle
+2. je
+3. cislovany
+4. seznam
